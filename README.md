@@ -47,7 +47,7 @@ Here is how it looks when it's patched:
 
 
 
-File name structure
+##File name structure
 
 
 game_filename_status.extentions
