@@ -58,3 +58,16 @@ You'll just have to remplace the originale filename by the one you can find on t
 Portal 2
 differ: char 3607633, line 8609 is 260 M-0  62 2
 
+
+
+##More infos
+
+Few years ago (4-5-6?), even before VR with Oculus Rift, Valve used NaturalPoint products (TrackIR and the one which work with the eye movement) for experiments of alternative control in Portal 2.
+
+Then the updated engine with TrackIR code parts was released with AlienSwarm.
+
+
+Games without TrackIR code :
+
+CSGO
+TF2
