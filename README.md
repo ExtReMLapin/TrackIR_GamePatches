@@ -17,6 +17,7 @@ I'll keep working on it soon.
 
 ####Requirements :
 -IDA Pro (With decompiler if you can't ASM)
+
 -A brain
 
 
@@ -24,7 +25,7 @@ Open the client.dll of the source game you want.
 Wait for it to disassemble.
 Then search for text : "HL2-Track"
 
-Is no result, you will not be able to patch it.
+If there is no result, you will not be able to patch it.
 
 If you got a result, you should have this :
 
